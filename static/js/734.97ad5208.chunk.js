@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkthe_weirdos=self.webpackChunkthe_weirdos||[]).push([[734],{6934:function(e,n,t){t.r(n),t.d(n,{default:function(){return r}});var i,d=t(168),a=(t(2791),t(6444)),h=t.p+"static/media/jorge.49ed76250d5ac09814a0.mp4",o=t(184),u=a.ZP.div(i||(i=(0,d.Z)(["\nwidth: 140%;\n\nvideo{\n    width: 100%;\n    height: auto;\n}\n\n@media (max-width: 64em) {\n  min-width: 40vh;\n}\n"]))),r=function(){return(0,o.jsx)(u,{children:(0,o.jsx)("video",{src:h,type:"video/mp4",autoPlay:!0,muted:!0,loop:!0})})}}}]);
+//# sourceMappingURL=734.97ad5208.chunk.js.map
